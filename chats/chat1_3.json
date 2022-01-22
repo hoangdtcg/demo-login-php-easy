@@ -1,0 +1,15 @@
+[
+  {
+    "user_id": 1,
+    "content": "Hello"
+  },
+  {
+    "user_id": 1,
+    "content": "Minh ten la Admin"
+  },
+  {
+    "user_id": 3,
+    "content": "Minh ten la Long, hoho"
+  }
+
+]
